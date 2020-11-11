@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.pythonPath": ".\\opencv_env\\Scripts\\python.exe"
+	}
+}
